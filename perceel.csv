@@ -1,0 +1,241 @@
+perceelnr;Geomorfologie;Geom_code;Bodem profiel;Bo_code;GWT;Landgebruik;deelgebied;Hellingperc;helling_deg;L_parcel;Buisdr;Sloot_Greppel;max_L_tot_sloot;Boring_ID;D_aquifer;kD_aquifer;s_aquifer;c_aquitard;spreidingslengte;Perc_spreiding;perc_Spr_cor
+1;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;grasland agrarisch;15;-0.1;0.05729576;52;0;Greppel;61;B35A0036;2;3.2;;1075;79.5;130;100
+2;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;bouwland;15;-0.4;0.229181896;167;0;Greppel;62;B35A0036;2;3.2;;1075;79.5;128;100
+3;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;bouwland;15;-0.1;0.05729576;147;0;Greppel;39;B35A0160;0.5;0.75;;1075;29.4;75;75
+4;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;loofbos;15;-0.1;0.05729576;36;0;Greppel;45;B35A0160;0.5;0.75;;1075;29.4;65;65
+5;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;15;-0.6;0.343770552;167;0;Greppel;50;B35A0160;0.5;0.75;;1075;29.4;59;59
+6;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;grasland agrarisch;15;-0.4;0.229181896;48;0;Greppel;63;B35A0036;2;3.2;;1075;79.5;126;100
+7;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;15;-1;0.572938698;157;0;Greppel;65;B35A0159;1.2;1.2;;1075;45.5;70;70
+8;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;houtwal;15;0;0;53;0;Greppel;35;B35A0036;2;3.2;;1075;79.5;227;100
+9;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;Bebouwing;15;-0.8;0.458356458;50;0;Greppel;50;B35A0971;1.35;1.2;;1075;60.2;120;100
+10;Droogdal;22R21ydl;Veldpodzolgronden;Hn21x;V;grasland agrarisch;15;-1.1;0.630228156;217;0;Sloot;51;B35A0160;0.5;0.75;;1075;29.4;58;58
+11;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;15;-0.9;0.515648093;178;0;Greppel;90;B35A0159;1.2;1.2;;1075;45.5;51;51
+12;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;grasland agrarisch;15;-0.9;0.515648093;187;0;Greppel;39;B35A0971;1.35;1.2;;1075;60.2;154;100
+13;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;Bebouwing;15;0;0;44;0;Greppel;21;B35A0159;1.2;1.2;;1075;45.5;217;100
+14;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;grasland agrarisch;15;-0.7;0.401063906;338;0;Greppel;50;B35A0971;1.35;1.2;;1075;60.2;120;100
+15;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;Bebouwing;15;-0.7;0.401063906;189;0;Greppel;38;B35A0971;1.35;1.2;;1075;60.2;158;100
+16;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21;V*;grasland overig;15;-0.4;0.229181896;176;0;Greppel;85;B35A0159;1.2;1.2;;1075;45.5;54;54
+17;Droogdal;22R21ydl;Gooreerdgronden;pZn23x;III;Bebouwing;15;-0.7;0.401063906;132;0;Sloot;85;B35A1241;1;0.6;;1075;26.3;31;31
+18;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;bouwland;15;-1;0.572938698;360;0;Sloot;101;B35A1241;1;1.5;;1075;41.5;41;41
+19;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;bouwland;15;-0.1;0.05729576;305;0;Greppel;60;B35A0220;0.95;1.95;;1075;54.2;90;90
+20;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;bouwland;15;0;0;217;0;Greppel;85;B35A0207;1.15;2.95;;1075;63.2;74;74
+21;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;15;-0.1;0.05729576;223;0;Sloot;113;B35A0207;1.15;2.95;;1075;63.2;56;56
+22;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;15;-0.3;0.171886823;230;0;Sloot;115;B35A0207;1.15;2.95;;1075;63.2;55;55
+23;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;bouwland;15;-0.1;0.05729576;243;1;Greppel;74;B35A0207;1.15;2.95;;1075;63.2;85;85
+24;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;grasland agrarisch;15;-0.3;0.171886823;342;1;Sloot;51;B35A0221;0.1;0.15;;1075;13.1;26;26
+25;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;grasland agrarisch;15;-0.3;0.171886823;305;1;Greppel;95;B35A0221;0.1;0.15;;1075;13.1;14;14
+26;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;Bebouwing;15;0.5;0.28647651;96;0;Greppel;95;B35A0222;0.7;2.05;;1075;48.6;51;51
+27;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;grasland agrarisch;15;-0.2;0.114591406;250;1;Sloot;120;B35A0221;0.1;0.15;;1075;13.1;11;11
+28;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;III;bouwland;15;-1.2;0.687516355;344;1;Sloot;63;B35A0220;0.95;2.55;;1075;54.2;86;86
+29;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland overig;15;0;0;100;1;Greppel;89;B35A0229;1;2.95;;1075;61.1;69;69
+30;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;15;-0.4;0.229181896;261;0;Greppel;102;B35A0222;0.7;2.05;;1075;48.6;48;48
+31;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;15;-0.3;0.171886823;185;0;Greppel;92;B35A0222;0.7;2.05;;1075;48.6;53;53
+32;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;grasland agrarisch;15;0.1;0.05729576;199;0;Greppel;67;B35A0253;0.3;0.45;;1075;22.7;34;34
+33;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;grasland overig;15;-0.6;0.343770552;159;0;Greppel;80;B35A0253;0.3;0.45;;1075;22.7;28;28
+34;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;grasland agrarisch;36;-1.4;0.802088513;64;0;Sloot;95;B35A0253;0.3;0.45;;1075;22.7;24;24
+35;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;loofbos;36;-1.4;0.802088513;37;0;Sloot;40;B35A0253;0.3;0.45;;1075;22.7;57;57
+36;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;15;-0.2;0.114591406;721;1;Greppel;50;B35A0229;1;2.95;;1075;61.1;122;100
+37;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;grasland agrarisch;4;-0.7;0.401063906;587;0;Greppel;181;B35A0229;1;2.95;;1075;61.1;34;34
+38;Droogdal;22R21ydl;Gooreerdgronden;pZn23x;III;loofbos;15;0;0;135;0;Sloot;38;B35A1241;1;0.6;;1075;26.3;69;69
+39;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;grasland agrarisch;15;-0.4;0.229181896;305;0;Greppel;65;B35A0218;0.6;0.9;;1075;32.2;49;49
+40;Storthopen ;4L91;Veldpodzolgronden;Hn21x;V;grasland agrarisch;4;0;0;166;0;Greppel;66;B35A0972;1.5;1.2;;1075;50.9;77;77
+41;Daluitspoelingswaaier;4G21ydl;Gooreerdgronden;pZn23x;III;Bebouwing;4;0;0;89;0;Greppel;75;B35A0226;2.4;0.48;;1075;40.7;54;54
+42;Daluitspoelingswaaier;4G21ydl;Gooreerdgronden;pZn23x;III;grasland agrarisch;4;-0.22;0.126050512;160;0;Greppel;67;B35A0226;2.4;0.48;;1075;40.7;61;61
+43;Droogdal;22R21ydl;Veldpodzolgronden;Hn21;V*;grasland agrarisch;4;-0.6;0.343770552;386;0;Sloot;102;B35A0265;2.9;3.3;;1075;82;80;80
+44;Droogdal;22R21ydl;Veldpodzolgronden;Hn21x;V;grasland agrarisch;4;-0.6;0.343770552;390;0;Sloot;111;B35A0229;1;3.25;;1075;61.1;55;55
+45;Droogdal;22R21ydl;Zeer ondiepe keileem, potklei, enz;KX;III;loofbos;36;-0.6;0.343770552;204;0;Sloot;126;B35A0217;0.3;0.45;;1075;22.7;18;18
+46;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21;V*;grasland agrarisch;36;-1.2;0.687516355;349;0;Greppel;81;B35A0254;0.7;2.05;;1075;48.6;60;60
+47;Droogdal;22R21ydl;Zeer ondiepe keileem, potklei, enz;KX;III;grasland agrarisch;36;-1;0.572938698;198;0;Greppel;34;B35A0217;0.3;0.45;;1075;22.7;67;67
+48;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;grasland agrarisch;36;-0.9;0.515648093;314;0;Sloot;146;B35A0217;0.3;0.45;;1075;22.7;16;16
+49;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;Bebouwing;36;-1;0.572938698;137;0;Greppel;80;B35A0260;0.1;0.15;;1075;13.1;16;16
+50;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;grasland agrarisch;36;-1.2;0.687516355;112;0;Greppel;65;B35A0260;0.1;0.15;;1075;13.1;20;20
+51;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;36;-0.3;0.171886823;378;0;Greppel;115;B35A0251;0.3;0.45;;1075;22.7;20;20
+52;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;gemengd bos;36;-0.3;0.171886823;196;0;Greppel;104;B35A0251;0.3;0.45;;1075;22.7;22;22
+53;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;Bebouwing;36;-0.3;0.171886823;28;0;Greppel;97;B35A0251;0.3;0.45;;1075;22.7;23;23
+54;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX ;V;loofbos;36;-0.1;0.05729576;152;0;Greppel;45;B35A1166;0.1;0.15;;1075;13.1;29;29
+55;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;36;-0.4;0.229181896;435;0;Greppel;112;B35A0251;0.3;0.45;;1075;22.7;20;20
+56;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;III;grasland agrarisch;36;-0.9;0.515648093;345;0;Greppel;170;B35A0260;0.1;0.15;;1075;13.1;8;8
+57;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;Bebouwing;36;0.1;0.05729576;135;0;Greppel;108;B35A1166;0.1;0.15;;1075;13.1;12;12
+58;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX ;V;grasland overig;36;-0.2;0.114591406;69;0;Greppel;108;B35A1166;0.1;0.15;;1075;13.1;12;12
+59;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX ;V;grasland agrarisch;36;-0.7;0.401063906;288;0;Greppel;89;B35A0257;0.9;1.2;;1075;39.4;44;44
+60;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;Bebouwing;36;-1.3;0.744803178;47;0;Greppel;36;B35A0289;0.85;3.2;;1075;62.5;174;100
+61;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;1;-0.4;0.229181896;285;0;Greppel;33;B35A0289;0.85;3.2;;1075;62.5;189;100
+62;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;1;0;0;140;0;Greppel;87;B35A0289;0.85;3.2;;1075;62.5;72;72
+63;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;1;-0.7;0.401063906;137;0;Greppel;50;B35A0289;0.85;3.2;;1075;62.5;125;100
+64;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX ;V;loofbos;36;-0.5;0.28647651;136;0;Greppel;94;B35A0249;0.4;0.6;;1075;26.3;28;28
+65;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX ;V;grasland agrarisch;36;-0.6;0.343770552;304;0;Greppel;71;B35A0257;0.9;1.2;;1075;39.4;55;55
+66;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;36;-0.8;0.458356458;266;0;Greppel;74;B35A1240;0.8;1.2;;1075;37.1;50;50
+67;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;III;grasland agrarisch;36;-1.2;0.687516355;254;0;Greppel;45;B35A0256;0.4;0.6;;1075;26.3;58;58
+68;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;Bebouwing;36;-1;0.572938698;89;0;Greppel;54;B35A1240;0.8;1.2;;1075;37.1;69;69
+69;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;III;grasland agrarisch;36;-1.5;0.859372244;42;0;Greppel;57;B35A1339;0.8;1.2;;1075;37.1;65;65
+70;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;III;grasland agrarisch;36;-0.5;0.28647651;82;0;Greppel;38;B35A1339;0.8;1.2;;1075;37.1;98;98
+71;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;III;Bebouwing;36;-0.5;0.28647651;309;0;Greppel;82;B35A1339;0.8;1.2;;1075;37.1;45;45
+72;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;III;grasland agrarisch;36;-1.4;0.802088513;177;0;Greppel;62;B35A0256;0.4;0.6;;1075;26.3;42;42
+73;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21;V*;grasland agrarisch;36;-0.9;0.515648093;527;1;Greppel;213;B35A0258;0.4;0.6;;1075;26.3;12;12
+74;Daluitspoelingswaaier;4G21ydl;Veldpodzolgronden;Hn21;V*;grasland agrarisch;17;-0.8;0.458356458;306;0;Greppel;56;B35A0266;1.1;3.2;;1075;71.1;127;100
+75;Daluitspoelingswaaier;4G21ydl;Veldpodzolgronden;Hn21;VI;loofbos;17;0;0;231;0;Greppel;45;B35A0023;3.95;1.2;;1075;82.5;183;100
+76;Daluitspoelingswaaier;4G21ydl;Veldpodzolgronden;Hn21;III;grasland overig;17;-0.2;0.114591406;220;0;Greppel;82;B35A0023;3.95;1.2;;1075;82.5;101;101
+77;Daluitspoelingswaaier;4G21ydl;Veldpodzolgronden;Hn21;III;loofbos;17;-0.1;0.05729576;127;0;Greppel;29;B35A0023;3.95;1.2;;1075;82.5;285;100
+78;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;grasland agrarisch;17;-0.1;0.05729576;257;0;Sloot;55;B35A0270;2.3;3.3;;1075;94.1;171;100
+79;Grondmorenewelvingen;3L11H;Beekeerdgronden;pZg23;III;grasland agrarisch;17;-0.3;0.171886823;329;0;Sloot;100;B35A0779;2.6;0.37;;1075;37.3;37;37
+80;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;Bebouwing;17;-0.3;0.171886823;151;0;Sloot;122;B35A0270;2.3;3.3;;1075;94.1;77;77
+81;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;VI;Bebouwing;28;-0.5;0.28647651;204;0;Sloot;35;Arcadis - 074958718:0.1;3;1.8;;1075;66.8;191;100
+82;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn22;III;bouwland;28;0.2;0.114591406;125;0;Greppel;51;Arcadis - 074958718:0.1;3;1.2;;1075;66.8;131;100
+83;Dalvormige laagte;22R23;Beekeerdgronden;pZg23;III;grasland agrarisch;28;-0.1;0.05729576;192;0;Sloot;22;B35A0275;2.3;0.72;;1075;52.2;237;100
+84;Grondmorenewelvingen;3L11H;Beekeerdgronden;pZg23;III;grasland agrarisch;47;-0.1;0.05729576;147;0;Greppel;74;B35A0779;2.6;0.2;;1075;37.3;50;50
+85;Dalvormige laagte;22R23;Veldpodzolgronden;Hn21;V*;grasland agrarisch;47;-0.5;0.28647651;536;1;Sloot;88;B35A0799;1.5;1.8;;1075;50.9;58;58
+86;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V*;grasland agrarisch;17;-1.3;0.744803178;255;0;Greppel;100;B35A0266;1.1;3.2;;1075;71.1;71;71
+87;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V*;loofbos;17;-0.7;0.401063906;450;0;sloot;76;B35A0266;1.1;4.4;;1075;71.1;94;94
+88;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V*;Bebouwing;17;-0.3;0.171886823;108;0;Greppel;45;B35A0266;1.1;3.2;;1075;71.1;158;100
+89;Dalvormige laagte;22R23;Veldpodzolgronden;Hn21;V;Bebouwing;47;-0.1;0.05729576;67;0;Greppel;36;B35A0268;2.9;3.2;;1075;115.5;321;100
+90;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;bouwland;1;-0.9;0.515648093;202;1;Sloot;153;B35A0797;1.4;1.8;;1075;49.1;32;32
+91;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;III;Bebouwing;1;-1.1;0.630228156;48;1;Sloot;75;B35A1339;0.8;2.45;;1075;53.1;71;71
+92;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;III;grasland agrarisch;1;-0.4;0.229181896;205;1;Sloot;201;B35A1339;0.8;2.45;;1075;53.1;26;26
+93;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland overig;1;-0.7;0.401063906;200;1;Sloot;23;B35A0797;1.4;1.8;;1075;49.1;214;100
+94;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;1;-0.4;0.229181896;160;0;Sloot;110;KG - 10007110;2.5;1.8;;1075;65.7;60;60
+95;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;III;grasland agrarisch;1;-0.7;0.401063906;127;0;Greppel;56;B35A0259;1.2;1.2;;1075;45.5;81;81
+96;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;Bebouwing;1;0;0;163;0;Greppel;113;B35A1240;0.8;1.2;;1075;37.1;33;33
+97;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;1;-0.6;0.343770552;99;0;Greppel;88;B35A1240;0.8;1.2;;1075;37.1;42;42
+98;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;Bebouwing;1;-0.6;0.343770552;244;0;Greppel;79;B35A1240;0.8;1.2;;1075;37.1;47;47
+99;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX ;V;grasland agrarisch;1;-0.9;0.515648093;229;0;Greppel;93;B35A0259;1.2;1.2;;1075;45.5;49;49
+100;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX ;V;grasland agrarisch;1;-1.1;0.630228156;221;0;Sloot;41;B35A0259;1.2;1.8;;1075;45.5;111;100
+101;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX ;V;Bebouwing;1;-1.2;0.687516355;40;0;Greppel;40;B35A0157;0.8;1.2;;1075;37.1;93;93
+102;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX ;V;grasland agrarisch;1;-1.2;0.687516355;135;0;Sloot;81;B35A0249;0.4;0.6;;1075;26.3;32;32
+103;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX ;V;grasland agrarisch;1;-1;0.572938698;205;0;Sloot;37;B35A0249;0.4;0.6;;1075;26.3;71;71
+104;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX ;V;loofbos;1;-1.1;0.630228156;103;0;Greppel;60;B35A0291;0.6;1.275;;1075;38.3;64;64
+105;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX ;V;grasland overig;1;-0.6;0.343770552;158;0;Greppel;39;B35A0291;0.6;1.275;;1075;38.3;98;98
+106;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;III;bouwland;1;-0.5;0.28647651;78;0;Sloot;65;B35A0805;0.55;0.825;;1075;30.8;47;47
+107;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX ;V;bouwland;1;-1.2;0.687516355;150;0;Greppel;91;B35A0291;0.6;1.275;;1075;38.3;42;42
+108;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;bouwland;1;-0.4;0.229181896;274;0;Greppel;74;B35A0289;0.85;3.2;;1075;62.5;84;84
+109;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;bouwland;1;-0.5;0.28647651;272;0;Greppel;55;B35A0289;0.85;3.2;;1075;62.5;114;100
+110;Grondmorenerug;10B13ydc;Hoge zwarte enkeerdgronden;zEZ23x;V*;bouwland;1;-0.5;0.28647651;270;0;Greppel;55;B35A1260;0.8;0.48;;1075;23.5;43;43
+111;Grondmorenerug;10B13ydc;Hoge zwarte enkeerdgronden;zEZ23x;V*;Bebouwing;35;0;0;90;0;Greppel;54;B35A1260;0.8;0.48;;1075;23.5;44;44
+112;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;35;-0.7;0.401063906;161;0;Greppel;44;B35A0284;0.5;0.75;;1075;29.4;67;67
+113;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;35;-0.7;0.401063906;302;0;Greppel;48;B35A0284;0.5;0.75;;1075;29.4;61;61
+114;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;bouwland;7;-0.7;0.401063906;321;0;Greppel;101;B35A0284;0.5;0.75;;1075;29.4;29;29
+115;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;gemengd bos;5;-0.7;0.401063906;354;0;Greppel;117;B35A0285;0.1;0.01;;1075;0;0;0
+116;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;5;-0.9;0.515648093;102;0;Greppel;61;B35A1232;0.55;0.825;;1075;30.8;50;50
+117;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;Bebouwing;5;-0.9;0.515648093;38;0;Greppel;37;B35A1232;0.55;0.825;;1075;30.8;83;83
+118;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;loofbos;5;-0.6;0.343770552;498;0;Greppel;50;B35A1232;0.55;0.825;;1075;30.8;62;62
+119;Grondmorenerug;10B13ydc;Hoge zwarte enkeerdgronden;zEZ23x;V*;Bebouwing;5;0;0;161;0;Greppel;48;B35A0327;0.6;0.36;;1075;20.3;42;42
+120;Grondmorenerug;10B13ydc;Hoge zwarte enkeerdgronden;zEZ23x;V*;grasland agrarisch;5;-0.2;0.114591406;228;0;Greppel;51;B35A0327;0.6;0.36;;1075;20.3;40;40
+121;Grondmorenerug;10B13ydc;Hoge zwarte enkeerdgronden;zEZ23x;V*;Bebouwing;5;0;0;53;0;Greppel;42;B35A0327;0.6;0.36;;1075;20.3;48;48
+122;Grondmorenerug;10B13ydc;Hoge zwarte enkeerdgronden;zEZ23x;V*;loofbos;5;-0.7;0.401063906;101;0;Greppel;40;B35A0327;0.6;0.36;;1075;20.3;51;51
+123;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;gemengd bos;5;-0.7;0.401063906;180;0;Greppel;38;B35A0285;0.1;0.01;;1075;0;0;0
+124;Grondmorenerug;10B13ydc;Laarpodzolgronden;cHn23x;V*;grasland overig;38;-1;0.572938698;60;0;Greppel;20;B35A0331;1.5;1.11;;1075;41.9;210;100
+125;Grondmorenerug;10B13ydc;Laarpodzolgronden;cHn23x;V*;bouwland;38;-1;0.572938698;92;0;Sloot;41;B35A0331;1.5;1.35;;1075;41.9;102;102
+126;Grondmorenerug;10B13ydc;Laarpodzolgronden;cHn23x;V*;Bebouwing;38;-1;0.572938698;85;0;Sloot;26;B35A0331;1.5;1.35;;1075;41.9;161;100
+127;Grondmorenerug;10B13ydc;Hoge zwarte enkeerdgronden;zEZ23x;V*;grasland agrarisch;38;-0.7;0.401063906;316;0;Greppel;71;B35A0327;0.6;0.36;;1075;20.3;29;29
+128;Grondmorenerug;10B13ydc;Hoge zwarte enkeerdgronden;zEZ23x;V*;Bebouwing;38;-0.3;0.171886823;79;0;Greppel;35;B35A0327;0.6;0.36;;1075;20.3;58;58
+129;Grondmorenerug;10B13ydc;Hoge zwarte enkeerdgronden;zEZ23x;V*;grasland agrarisch;38;0;0;86;0;Greppel;40;B35A0327;0.6;0.36;;1075;20.3;51;51
+130;Grondmorenerug;10B13ydc;Hoge zwarte enkeerdgronden;zEZ23x;V*;grasland agrarisch;38;0.3;0.171886823;157;0;Greppel;12;B35A0327;0.6;0.36;;1075;20.3;170;100
+131;Grondmorenerug;10B13ydc;Hoge zwarte enkeerdgronden;zEZ23x;V*;grasland agrarisch;38;0.6;0.343770552;178;0;Greppel;191;B35A0327;0.6;0.36;;1075;20.3;11;11
+132;Grondmorenerug;10B13ydc;Hoge zwarte enkeerdgronden;zEZ23x;V*;Bebouwing;38;0;0;60;0;Greppel;85;B35A0327;0.6;0.36;;1075;20.3;24;24
+133;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;grasland agrarisch;38;-0.9;0.515648093;359;0;Greppel;81;B35A0326;0.3;0.18;;1075;14.4;18;18
+134;Grondmorenerug;10B13ydc;Laarpodzolgronden;cHn23x;V*;grasland agrarisch;38;-0.5;0.28647651;136;0;Sloot;26;B35A0331;1.5;1.35;;1075;41.9;161;100
+135;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;Bebouwing;38;0;0;90;0;Greppel;20;B35A0326;0.3;0.18;;1075;14.4;72;72
+136;Grondmorenerug;10B13ydc;Laarpodzolgronden;cHn23x;V*;Bebouwing;38;-1;0.572938698;116;0;Sloot;24;B35A0329;1.6;0.72;;1075;33.2;138;100
+137;Grondmorenerug;10B13ydc;Laarpodzolgronden;cHn23x;V*;Bebouwing;5;-0.5;0.28647651;35;0;Greppel;45;B35A0329;1.6;0.48;;1075;33.2;74;74
+138;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;38;-0.8;0.458356458;486;0;Sloot;109;B35A0330;0.9;2.85;;1075;57.2;53;53
+139;Grondmorenerug;10B13ydc;Laarpodzolgronden;cHn23x;V*;bouwland;5;-1.2;0.687516355;117;0;Greppel;104;B35A0329;1.6;0.48;;1075;33.2;32;32
+140;Droogdal;22R21ydl;Beekeerdgronden;pZg23x;III;grasland agrarisch;5;-1.1;0.630228156;234;0;Greppel;46;B35A0329;1.6;0.48;;1075;33.2;72;72
+141;Grondmorenerug;10B13ydc;Beekeerdgronden;pZg23x;III;grasland agrarisch;5;-0.8;0.458356458;163;0;Greppel;32;B35A0329;1.6;0.48;;1075;33.2;104;104
+142;Droogdal;22R21ydl;Laarpodzolgronden;cHn23x;V*;loofbos;5;0;0;143;0;Greppel;148;B35A0329;1.6;0.48;;1075;33.2;22;22
+143;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;Bebouwing;5;0;0;74;0;Greppel;109;B35A0285;0.1;0.01;;1075;0;0;0
+144;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;bouwland;5;-1;0.572938698;166;1;Greppel;126;B35A0285;0.1;0.01;;1075;0;0;0
+145;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;bouwland;5;0;0;164;0;Greppel;38;B35A0299;0.75;1.875;;1075;46.4;122;100
+146;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;V;loofbos;5;0;0;110;0;Greppel;43;B35A0285;0.1;0.01;;1075;0;0;0
+147;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;7;-0.9;0.515648093;146;0;Greppel;104;B35A1233;1.5;1.2;;1075;50.9;49;49
+148;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;7;-1.1;0.630228156;261;0;Greppel;58;B35A1233;1.5;1.2;;1075;50.9;88;88
+149;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX;III;grasland agrarisch;7;-0.5;0.28647651;91;0;Greppel;107;B35A0283;0.3;0.45;;1075;22.7;21;21
+150;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;bouwland;35;-1.2;0.687516355;210;0;Greppel;45;B35A0284;0.5;0.75;;1075;29.4;65;65
+151;Grondmorenerug;10B13ydc;Zeer ondiepe keileem, potklei, enz;KX ;V;gemengd bos;35;-1;0.572938698;696;0;Greppel;210;B35A0264;0.4;0.6;;1075;26.3;13;13
+152;Droogdal;22R21ydl;Zeer ondiepe keileem, potklei, enz;KX;III;grasland agrarisch;35;-1.2;0.687516355;200;0;Greppel;34;B35A0283;0.3;0.45;;1075;22.7;67;67
+153;Droogdal;22R21ydl;Zeer ondiepe keileem, potklei, enz;KX;III;grasland agrarisch;7;-0.5;0.28647651;259;0;Greppel;56;B35A0283;0.3;0.45;;1075;22.7;41;41
+154;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;Bebouwing;7;-0.3;0.171886823;103;0;Greppel;50;B35A1233;1.5;1.2;;1075;50.9;102;102
+155;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;7;-0.9;0.515648093;49;1;Greppel;32;B35A1233;1.5;1.2;;1075;50.9;159;100
+156;Grondmorenerug;10B13ydc;Beekeerdgronden;pZg23x;III;grasland agrarisch;7;-0.9;0.515648093;335;1;Greppel;47;B35A1004;1.8;0.325;;1075;45.8;97;97
+157;Droogdal;22R21ydl;Beekeerdgronden;pZg23x;III;grasland agrarisch;7;-0.3;0.171886823;182;0;Sloot;44;B35A1004;1.8;0.925;;1075;45.8;104;100
+158;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;grasland agrarisch;7;-0.4;0.229181896;630;1;Sloot;140;B35A0261;1;1.5;;1075;41.5;30;30
+159;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;bouwland;19;-0.3;0.171886823;305;1;Sloot;138;B35A0274;3.9;1.8;;1075;151.8;110;100
+160;Dalvormige laagte;22R23;Beekeerdgronden;pZg23;III;bouwland;19;-0.1;0.05729576;240;1;Sloot;58;B35A0279;1.45;1.575;;1075;47.4;82;82
+161;Vlakte van grondmorene;2M11dH;Veldpodzolgronden;Hn21;III;grasland agrarisch;19;-0.2;0.114591406;626;1;Greppel;340;B35A0278;3.2;3.2;;1075;96.2;28;28
+162;Vlakte van grondmorene;2M11dH;Beekeerdgronden;pZg23;II;Bebouwing;19;-0.2;0.114591406;118;0;Greppel;187;B35A1154;1.8;0.48;;1075;35.2;19;19
+163;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;grasland agrarisch;31;0;0;139;1;Greppel;57;B35A0311;1.55;3.03;;1075;63.3;111;100
+164;Vlakte van grondmorene;2M11dH;Beekeerdgronden;pZg23;II;Bebouwing;31;0.4;0.229181896;95;0;Greppel;48;B35A0310;1.8;0.48;;1075;56.5;118;100
+165;Vlakte van grondmorene;2M11dH;Veldpodzolgronden;Hn21;III;grasland agrarisch;31;-0.1;0.05729576;193;0;Greppel;50;B35A0310;1.8;0.48;;1075;56.5;113;100
+166;Vlakte van grondmorene;2M11dH;Veldpodzolgronden;Hn21;III;grasland agrarisch;31;-0.1;0.05729576;322;0;Greppel;44;B35A0310;1.8;0.48;;1075;56.5;129;100
+167;Vlakte van grondmorene;2M11dH;Veldpodzolgronden;Hn21;III;grasland agrarisch;31;-0.1;0.05729576;390;0;Greppel;72;B35A0310;1.8;0.48;;1075;56.5;79;79
+168;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;loofbos;31;0;0;120;0;Sloot;55;B35A0320;3;1.8;;1075;98.9;180;100
+169;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;Bebouwing;31;0;0;18;0;Sloot;20;B35A0320;3;1.8;;1075;98.9;494;100
+170;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;Bebouwing;31;-0.1;0.05729576;120;0;Greppel;36;B35A0026;3.8;1.2;;1075;81;225;100
+171;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;grasland agrarisch;31;-0.1;0.05729576;278;0;Greppel;29;B35A0026;3.8;1.2;;1075;81;279;100
+172;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;Bebouwing;31;-0.7;0.401063906;102;0;Sloot;55;B35A0026;3.8;1.8;;1075;81;147;100
+173;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;Bebouwing;31;-0.3;0.171886823;60;0;Greppel;40;B35A0026;3.8;1.2;;1075;81;202;100
+174;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;grasland agrarisch;31;0.4;0.229181896;153;0;Greppel;41;B35A0026;3.8;1.2;;1075;81;197;100
+175;Beekdalbodem;22R42L;Veldpodzolgronden;Hn21;III;grasland overig;31;0.1;0.05729576;146;0;Greppel;31;B35A0026;3.8;1.2;;1075;81;261;100
+176;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;Bebouwing;31;0.4;0.229181896;36;0;Greppel;50;B35A0026;3.8;1.2;;1075;81;162;100
+177;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;grasland overig;31;0;0;224;0;Greppel;53;B35A0311;1.55;3.03;;1075;63.3;119;100
+178;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;Bebouwing;19;0;0;72;0;Greppel;36;B35A0311;1.55;3.03;;1075;63.3;176;100
+179;Beekdalbodem;22R42L;Beekeerdgronden;pZg23;III;grasland overig;19;-0.2;0.114591406;139;0;Greppel;42;B35A0311;1.55;1.155;;1075;43;102;102
+180;Beekdalbodem;22R42L;Veldpodzolgronden;Hn21;III;grasland agrarisch;19;0;0;126;0;Sloot;38;B35A0311;1.55;3.27;;1075;63.3;166;100
+181;Grondmorenewelvingen;3L11H;Beekeerdgronden;pZg23;III;grasland agrarisch;19;0;0;112;0;Sloot;63;B35A0309;2.25;0.72;;1075;50.4;80;80
+182;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V;grasland agrarisch;19;-0.6;0.343770552;193;0;Greppel;40;B35A0306;3.9;3.2;;1075;201.8;504;100
+183;Beekdalbodem;22R42L;Beekeerdgronden;pZg23;III;grasland agrarisch;31;-0.2;0.114591406;151;0;Sloot;76;B35A0306;3.9;4.8;;1075;201.8;265;100
+184;Beekdalbodem;22R42L;Beekeerdgronden;pZg23;III;Bebouwing;31;0.1;0.05729576;71;0;Greppel;33;B35A0306;3.9;3.2;;1075;201.8;611;100
+185;Beekdalbodem;22R42L;Beekeerdgronden;pZg23;III;grasland agrarisch;31;-0.1;0.05729576;276;0;Sloot;25;B35A0306;3.9;4.8;;1075;201.8;807;100
+186;Dalvormige laagte;22R23;Beekeerdgronden;pZg23;III;Bebouwing;31;-0.1;0.05729576;79;0;Greppel;29;B35A0306;3.9;3.2;;1075;201.8;696;100
+187;Dalvormige laagte;22R23;Beekeerdgronden;pZg23;III;transitie;31;0;0;35;0;Greppel;33;B35A0306;3.9;3.2;;1075;201.8;611;100
+188;Dalvormige laagte;22R23;Beekeerdgronden;pZg23;III;grasland agrarisch;31;-0.1;0.05729576;291;0;Greppel;54;B35A0306;3.9;3.2;;1075;201.8;374;100
+189;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V;bouwland;21;0;0;375;0;Greppel;109;B35A0274;3.9;1.2;;1075;151.8;139;100
+190;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V;Bebouwing;21;-0.1;0.05729576;66;0;Greppel;53;B35A0306;3.9;3.2;;1075;201.8;381;100
+191;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V;Bebouwing;21;0;0;42;0;Greppel;55;B35A0274;3.9;1.2;;1075;151.8;276;100
+192;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V;grasland agrarisch;21;-0.2;0.114591406;89;0;Greppel;40;B35A0274;3.9;1.2;;1075;151.8;379;100
+193;Grondmorenewelvingen;3L11H;Beekeerdgronden;pZg23;III;bouwland;19;-0.3;0.171886823;169;1;Sloot;100;B35A0309;2.25;0.72;;1075;50.4;50;50
+194;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V;Bebouwing;19;-0.1;0.05729576;97;0;Sloot;34;B35A0274;3.9;1.8;;1075;151.8;446;100
+195;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V;grasland overig;19;0.2;0.114591406;101;1;Sloot;49;B35A0274;3.9;1.8;;1075;151.8;310;100
+196;Beekdalbodem;22R42L;Beekeerdgronden;pZg23;III;Bebouwing;19;0.3;0.171886823;79;1;Sloot;19;B35A0309;2.25;0.72;;1075;50.4;265;100
+197;Beekdalbodem;22R42L;Beekeerdgronden;pZg23;III;grasland overig;19;-0.4;0.229181896;56;1;Sloot;102;B35A0309;2.25;0.72;;1075;50.4;49;49
+198;Beekdalbodem;22R42L;Beekeerdgronden;pZg23;III;Bebouwing;19;-0.3;0.171886823;77;1;Sloot;34;B35A0309;2.25;0.72;;1075;50.4;148;100
+199;Dalvormige laagte;22R23;Beekeerdgronden;pZg23;III;bouwland;21;-0.1;0.05729576;213;0;Sloot;48;B35A0129;3.5;0.72;;1075;49.1;102;102
+200;Dalvormige laagte;22R23;Beekeerdgronden;pZg23;III;grasland agrarisch;21;0;0;134;0;Sloot;48;B35A0129;3.5;0.72;;1075;49.1;102;102
+201;Dalvormige laagte;22R23;Beekeerdgronden;pZg23;III;Bebouwing;21;-0.2;0.114591406;77;0;Sloot;49;B35A0129;3.5;0.72;;1075;49.1;100;100
+202;Dalvormige laagte;22R23;Beekeerdgronden;pZg23;III;grasland agrarisch;13;-0.3;0.171886823;177;0;Sloot;52;B35A1005;1.8;0.55;;1075;40.8;79;79
+203;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V;grasland agrarisch;13;0;0;361;0;Sloot;75;B35A0129;3.5;0.72;;1075;49.1;66;66
+204;Grondmorenewelvingen;3L11H;Beekeerdgronden;pZg23x;III;grasland agrarisch;13;-0.3;0.171886823;312;0;Sloot;86;B35A1004;1.8;0.925;;1075;45.8;53;53
+205;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V;Bebouwing;13;-0.3;0.171886823;115;0;Greppel;45;B35A0297;1.2;1.2;;1075;45.5;101;101
+206;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V;loofbos;21;-0.1;0.05729576;154;0;Greppel;43;B35A0129;3.5;0.48;;1075;49.1;114;100
+207;Dalvormige laagte;22R23;Veldpodzolgronden;Hn21;V;grasland overig;21;-0.3;0.171886823;56;0;Greppel;72;B35A0129;3.5;0.48;;1075;49.1;68;68
+208;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V;Bebouwing;21;-0.3;0.171886823;55;0;Greppel;51;B35A0129;3.5;0.48;;1075;49.1;96;96
+209;Dalvormige laagte;22R23;Veldpodzolgronden;Hn21;V;grasland agrarisch;18;-0.3;0.171886823;403;0;Sloot;94;B35A0129;3.5;0.72;;1075;49.1;52;52
+210;Grondmorenewelvingen;3L11H;Gooreerdgronden;pZn23x;III;grasland agrarisch;18;-0.3;0.171886823;385;0;Sloot;59;B35A0303;2.4;0.72;;1075;40.7;69;69
+211;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V;Bebouwing;37;0.1;0.05729576;268;0;Sloot;89;B35A0304;2.7;1.8;;1075;68.2;77;77
+212;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V;grasland overig;37;-0.3;0.171886823;100;0;Sloot;26;B35A0304;2.7;1.8;;1075;68.2;262;100
+213;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V;bouwland;37;-0.3;0.171886823;265;1;Greppel;107;B35A0304;2.7;1.2;;1075;68.2;64;64
+214;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;V;Bebouwing;18;-0.5;0.28647651;105;0;Greppel;25;B35A0303;2.4;1.2;;1075;64.3;257;100
+215;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;bouwland;18;0.5;0.28647651;99;0;Greppel;42;B35A0303;2.4;1.2;;1075;64.3;153;100
+216;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;grasland agrarisch;18;0;0;216;1;Greppel;75;B35A0303;2.4;1.2;;1075;64.3;86;86
+217;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21;III;heide;18;-0.4;0.229181896;374;0;Greppel;213;B35A0296;2.9;3.2;;1075;157.2;74;74
+218;Grondmorenewelvingen;3L11H;Gooreerdgronden;pZn23x;III;grasland agrarisch;18;0.1;0.05729576;116;0;Sloot;54;B35A0293;2;1.8;;1075;58.7;109;100
+219;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21x;V;grasland agrarisch;18;-0.1;0.05729576;57;0;Sloot;54;B35A0293;2;4.8;;1075;95.9;178;100
+220;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21x;V;bouwland;18;-0.1;0.05729576;159;0;Sloot;54;B35A0293;2;4.8;;1075;95.9;178;100
+221;Dalvormige laagte;22R23;Gooreerdgronden;pZn23x;III;grasland agrarisch;18;-0.2;0.114591406;193;1;Sloot;50;B35A0293;2;1.8;;1075;58.7;117;100
+222;Grondmorenewelvingen;3L11H;Gooreerdgronden;pZn23x;III;grasland overig;18;-0.3;0.171886823;211;0;Greppel;56;B35A0293;2;1.2;;1075;58.7;105;100
+223;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21x;V;heide;18;-1;0.572938698;202;0;Greppel;131;B35A0298;0.5;0.75;;1075;29.4;22;22
+224;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21x;V;loofbos;18;-1;0.572938698;190;0;Greppel;76;B35A0297;1.2;1.2;;1075;45.5;60;60
+225;Grondmorenerug;10B13ydc;Gooreerdgronden;pZn23x;III;loofbos;11;-1.1;0.630228156;243;0;Sloot;115;B35A0298;0.5;0.3;;1075;18.6;16;16
+226;Grondmorenerug;10B13ydc;Gooreerdgronden;pZn23x;III;Bebouwing;41;-1.1;0.630228156;95;0;Greppel;105;B35A0298;0.5;0.3;;1075;18.6;18;18
+227;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;Bebouwing;18;-0.7;0.401063906;97;0;Greppel;31;B35A1233;1.5;1.2;;1075;50.9;164;100
+228;Droogdal;22R21ydl;Veldpodzolgronden;Hn21x;V;loofbos;8;-0.8;0.458356458;198;0;Sloot;85;B35A0299;0.75;1.875;;1075;46.4;55;55
+229;Dalvormige laagte;22R23;Veldpodzolgronden;Hn21x;V;grasland overig;11;-1;0.572938698;149;0;Sloot;64;B35A0300;0.2;0.3;;1075;18.6;29;29
+230;Grondmorenewelvingen;3L11H;Veldpodzolgronden;Hn21x;V;grasland agrarisch;8;-1.1;0.630228156;117;0;Sloot;92;B35A0293;2;4.8;;1075;95.9;104;100
+231;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;bouwland;8;-0.7;0.401063906;162;0;Sloot;92;B35A0293;2;4.8;;1075;95.9;104;100
+232;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;bouwland;33;-0.2;0.114591406;221;1;Sloot;48;B35A0299;0.75;1.875;;1075;46.4;97;97
+233;Grondmorenerug;10B13ydc;Beekeerdgronden;pZg23x;III;loofbos;33;-0.8;0.458356458;185;0;Sloot;82;B35A0335;1.5;0.0096;;1075;3.7;5;5
+234;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;bouwland;33;-0.4;0.229181896;269;1;Greppel;109;B35A0299;0.75;1.875;;1075;46.4;43;43
+235;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;gemengd bos;41;-0.7;0.401063906;139;0;Greppel;102;B35A0299;0.75;1.875;;1075;46.4;46;46
+236;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;grasland agrarisch;41;-0.8;0.458356458;327;0;Greppel;81;B35A0299;0.75;1.875;;1075;46.4;57;57
+237;Grondmorenerug;10B13ydc;Gooreerdgronden;pZn23x;III;grasland agrarisch;41;-0.4;0.229181896;140;0;Greppel;46;B35A1233;1.5;0.48;;1075;32.2;70;70
+238;Grondmorenerug;10B13ydc;Gooreerdgronden;pZn23x;III;Bebouwing;41;-0.7;0.401063906;119;0;Greppel;59;B35A1233;1.5;0.48;;1075;32.2;55;55
+239;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;bouwland;41;-0.4;0.229181896;192;1;Sloot;101;B35A0299;0.75;1.875;;1075;46.4;46;46
+240;Grondmorenerug;10B13ydc;Veldpodzolgronden;Hn21x;V;bouwland;36;-0.7;0.401063906;265;0;Greppel;93;B35A0256;0.4;0.6;;1075;26.3;28;28
